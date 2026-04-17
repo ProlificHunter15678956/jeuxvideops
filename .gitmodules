@@ -1,3 +1,6 @@
 [submodule "js13k-2021"]
 	path = js13k-2021
 	url = git@github.com:Maxime-Meteye/js13k-2021.git
+[submodule "spaceworld"]
+	path = spaceworld
+	url = git@github.com:ProlificHunter15678956/js13k-spaceWord.git
